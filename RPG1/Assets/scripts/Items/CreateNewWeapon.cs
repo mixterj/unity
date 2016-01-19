@@ -16,7 +16,7 @@ public class CreateNewWeapon : MonoBehaviour {
 	}
 
 	// create array to actually have names - do this later
-	// private string[] weaponNames = new string[6] {"Weapon of Greatness"} 
+	// private string[] weaponNames = new string[4] {"Common", "Great", "Unique", "Rare"} 
 	public void CreateWeapon() {
 
 		newWeapon = new BaseWeapon();

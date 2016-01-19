@@ -4,7 +4,7 @@ using System.Collections;
 public class BasePotion : BaseStatItem {
 	public enum PotionTypes {
 		HEALTH,
-		ENTERGY,
+		ENERGY,
 		STRENGTH,
 		ENDURANCE,
 		INTELLECT,
