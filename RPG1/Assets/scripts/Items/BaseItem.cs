@@ -1,6 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
+[System.Serializable]
 public class BaseItem {
 	private string itemName;
 	private string itemDsecription;
